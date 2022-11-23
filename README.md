@@ -12,5 +12,5 @@ League Of Legends (LOL) is one of the most popular multiplayer online battle are
 
 ## Model Framework
 <div align=center>
-<img src="https://github.com/Wanqi9Hu/The-prediction-model-based-on-in-game-performance-in-LOL/blob/main/Model%20Framework.png" width="1000" height="250">
+<img src="https://github.com/Wanqi9Hu/The-prediction-model-based-on-in-game-performance-in-LOL/blob/main/Model%20Framework.png" width="1000" height="123">
 </div>
