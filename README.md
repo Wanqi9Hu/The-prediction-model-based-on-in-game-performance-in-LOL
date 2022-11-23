@@ -21,5 +21,5 @@ Kaggle provides a detailed database of LoL 2020 ranked games. (https://www.kaggl
 ## Result
 * Accuracies of the prediction of critical points
 <div align=center>
-<img src="https://github.com/Wanqi9Hu/The-prediction-model-based-on-in-game-performance-in-LOL/blob/main/Accuracies%20of%20the%20prediction%20of%20critical%20points.png" width="400" height="50">
+<img src="https://github.com/Wanqi9Hu/The-prediction-model-based-on-in-game-performance-in-LOL/blob/main/Accuracies%20of%20the%20prediction%20of%20critical%20points.png" width="500" height="60">
 </div>
