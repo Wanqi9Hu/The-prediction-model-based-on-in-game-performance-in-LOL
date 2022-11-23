@@ -15,7 +15,7 @@ League Of Legends (LOL) is one of the most popular multiplayer online battle are
 <img src="https://github.com/Wanqi9Hu/The-prediction-model-based-on-in-game-performance-in-LOL/blob/main/Model%20Framework.png" width="1000" height="80">
 </div>
 
-##Data
+## Data
 Kaggle provides a detailed database of LoL 2020 ranked games. (https://www.kaggle.com/datasets/gyejr95/league-of-legendslol-ranked-games-2020-ver1)
 
-##Result
+## Result
